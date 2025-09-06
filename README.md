@@ -16,7 +16,7 @@
 - 💬 Ask me about **React,Python,MySQL,PostgreSQL,Bootstrap,Tailwind CSS**
 
 - 📫 How to reach me **cheptookelsey@gmail.com**
-- [my portfolio](https://personal-portfolio-three-coral-79.vercel.app/)
+- [My Portfolio](https://personal-portfolio-three-coral-79.vercel.app/)
 
 - ⚡ Fun fact **I choreograph pixels like a digital dance**
 
