@@ -19,7 +19,7 @@
 - 📫 How to reach me **cheptookelsey@gmail.com**
 - [My Portfolio](https://personal-portfolio-three-coral-79.vercel.app/)
 
-- ⚡ Fun fact **I choreograph pixels like a digital dance**
+- ⚡ Fun fact **Samsung started in 1938 as a grocery store**
 
 ---
 
