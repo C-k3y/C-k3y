@@ -3,22 +3,19 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Soi Kelsey</h1>
-<h3 align="center">An aspiring FullStack-Developer in the making, with a passion for developing user-centered design. I love turning ideas into interactive experiences using HTML, CSS, JavaScript, and React. Currently deepening my skills in backend-technologies to build full-stack solutions.
+<h3 align="center">An aspiring FullStack-Developer in the making, with a passion for developing user-centered design. I love turning ideas into interactive experiences using HTML, CSS, JavaScript,React,Solidity and Web3. Currently deepening my skills in blockchain and Smartcontract Development.
 </h3>
 
 ---
 
-- 🔭 I’m currently working on [Mamacare-AI](https://github.com/C-k3y/MamaCare-AI)
+- 🔭 I’m currently working on [LockLedger]([https://github.com/C-k3y/LockLedger.git])
 
-- 🌱 Actively working on building accessible, interactive UIs
+- 🌱 Actively working on building accessible, interactive UIs and dApps
 
-- 👯 I’m looking to collaborate on [Aquatrace](https://github.com/C-k3y/AquaTrace)
-
-- 💬 Ask me about **React,MySQL,Tailwind CSS**
+- 💬 Ask me about **Web3,Frontend Development, SmartContracts**
 
 - 📫 How to reach me **cheptookelsey@gmail.com**
-- [My Portfolio](https://personal-portfolio-three-coral-79.vercel.app/)
-
+  
 - ⚡ Fun fact **Samsung started in 1938 as a grocery store**
 
 ---
@@ -45,8 +42,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <!--GIT-->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <!--SOLIDITY-->
+ <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
 </p>
-
 ---
 
 <h3 align="left">Connect with me on:</h3>
