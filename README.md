@@ -3,14 +3,13 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Soi Kelsey</h1>
-<h3 align="center">An aspiring FullStack-Developer in the making, with a passion for developing user-centered design. I love turning ideas into interactive experiences using HTML, CSS, JavaScript,React,Solidity and Web3. Currently deepening my skills in blockchain and Smartcontract Development.
+<h3 align="center">Frontend Developer | React & TypeScript | Web3 Builder
+<br>Building user-focused web apps and exploring blockchain, smart contracts, and decentralized systems.
 </h3>
 
 ---
 
-- 🔭 I’m currently working on [LockLedger]([https://github.com/C-k3y/LockLedger.git])
-
-- 🌱 Actively working on building accessible, interactive UIs and dApps
+- 🔭 I’m currently working on LockLedger[https://github.com/C-k3y/LockLedger.git]
 
 - 💬 Ask me about **Web3,Frontend Development, SmartContracts**
 
