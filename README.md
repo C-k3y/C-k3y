@@ -64,8 +64,21 @@
 
 ## 💡 Did You Know?
 
-Before becoming a tech giant, Samsung started as a grocery store in 1938! I'm proof that amazing transformations are possible.
+The Apollo 11 computers were weaker than a calculator
+<!--
+“Code. Create. Innovate.”
+“Turning caffeine into software.”
+“Code hard. Hack smart.”
+“Open source everything.”
+“Powered by Linux and late nights.”
+“On-chain ideas. Off-chain ambition.”
+“Works on my machine.”
+“sudo make me a sandwich.”
+“Eating RAM for breakfast.”
+“Stay curious.”
+“Code never sleeps.”
+-->
 
 <p align="center" style="margin-top:30px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=sudo+build+the+future!" alt="Typing SVG" />
 </p>
