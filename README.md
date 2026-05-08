@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/736x/09/09/ed/0909edfd55b05f3f157c0a730b5c66b3.jpg" width="32" style="border-radius:50%"/> Hello👋, I'm Kelsey soi
+# <img src="https://i.pinimg.com/736x/09/09/ed/0909edfd55b05f3f157c0a730b5c66b3.jpg" width="32" style="border-radius:50%"/> Hello👋, I'm Kelsey Soi
 
 <h3 align="center">Frontend Developer • React/TypeScript • Web3 Builder</h3>
 
