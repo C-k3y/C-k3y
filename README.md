@@ -80,5 +80,5 @@ The Apollo 11 computers were weaker than a calculator
 -->
 
 <p align="center" style="margin-top:30px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=sudo+build+the+future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Powered+by+Linux+and+late+nights." alt="Typing SVG" />
 </p>
