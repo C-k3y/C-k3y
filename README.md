@@ -57,7 +57,7 @@
 
 ## 🔥 Current Focus
 
-**LockLedger** - Building a decentralized ledger system for smart contract management  
+**LockLedger** - a decentralized Web3 escrow platform built to facilitate secure, transparent, and trustless digital agreements using blockchain technology.
 👉 [Check it out on GitHub](https://github.com/C-k3y/LockLedger.git)
 
 ---
