@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer • React/TypeScript • Web3 Builder</h3>
 
 <p align="center">
-  Transforming ideas into elegant digital experiences and building decentralized futures
+  Transforming ideas into elegant digital experiences and building a decentralized future
 </p>
 
 ---
