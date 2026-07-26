@@ -55,16 +55,6 @@
 
 ---
 
-## 🔥 Current Focus
-
-**LockLedger** - a decentralized Web3 escrow platform built to facilitate secure, transparent, and trustless digital agreements using blockchain technology.
-👉 [Check it out on GitHub](https://github.com/C-k3y/LockLedger.git)
-
----
-
-## 💡 Did You Know?
-
-The Apollo 11 computers were weaker than a calculator
 <!--
 “Code. Create. Innovate.”
 “Turning caffeine into software.”
@@ -77,8 +67,14 @@ The Apollo 11 computers were weaker than a calculator
 “Eating RAM for breakfast.”
 “Stay curious.”
 “Code never sleeps.”
+## 💡 Did You Know?
+The Apollo 11 computers were weaker than a calculator
+## 🔥 Check out my progress
+**LockLedger** - a decentralized Web3 escrow platform built to facilitate secure, transparent, and trustless digital agreements using blockchain technology.
+👉 [Check it out on GitHub](https://github.com/C-k3y/LockLedger.git)
+---
 -->
 
 <p align="center" style="margin-top:30px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Powered+by+Linux+and+late+nights." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Stay+Curious." alt="Typing SVG" />
 </p>
