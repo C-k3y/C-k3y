@@ -51,7 +51,7 @@ A project exploring decentralized inheritance and digital asset protection. I co
 
 🏆 The project ranked **15th globally and 3rd in Kenya** at DEV3Pack.
 
-### 🏷️ [Geschichte](https://github.com/C-k3y/Geschichte)
+### 🏷️ [Geschichte](https://geschichte-gamma.vercel.app/)
 A clothing brand built around identity, resilience, and self-expression.
 
 *Every scar. Every lesson. Every victory. This is my story.*
