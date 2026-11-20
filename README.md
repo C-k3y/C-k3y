@@ -1,4 +1,4 @@
-# 👋 Hi I'm Kelsey
+# 👋 Hi I'm [Kelsey Soi](https://kelsey-soi.netlify.app)
 <h3 align="center">Developer in progress. Builder by curiosity.</h3>
 
 ## 🧑‍💻 A Little About Me
